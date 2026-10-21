@@ -1,316 +1,564 @@
 {
-  "dim": 256,
-  "mode": "single-utterance g, farthest-point subset 62 of 62",
-  "rows": [
-    {
-      "id": "vctk-p225",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p228",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p229",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p230",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p231",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p233",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p234",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p236",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p238",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p239",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p240",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p244",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p248",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p249",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p250",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p253",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p257",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p261",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p262",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p264",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p265",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p266",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p267",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p268",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p269",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p276",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p277",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p280",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p282",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p283",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p288",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p293",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p294",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p295",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p297",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p299",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p300",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p301",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p303",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p305",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p306",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p307",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p308",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p310",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p312",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p313",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p314",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p317",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p318",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p323",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p329",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p330",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p333",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p335",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p336",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p339",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p340",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p341",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p343",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p351",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p361",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    },
-    {
-      "id": "vctk-p362",
-      "source": "VCTK 0.92 mic1",
-      "sex": "F"
-    }
-  ]
+ "dim": 256,
+ "mode": "single-utterance g, farthest-point subset 62 of 62",
+ "rows": [
+  {
+   "id": "vctk-p225",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p225",
+   "age": "23",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p228",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p228",
+   "age": "22",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p229",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p229",
+   "age": "23",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p230",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p230",
+   "age": "22",
+   "accent": "English",
+   "region": "Stockton-on-tees"
+  },
+  {
+   "id": "vctk-p231",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p231",
+   "age": "23",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p233",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p233",
+   "age": "23",
+   "accent": "English",
+   "region": "Staffordshire"
+  },
+  {
+   "id": "vctk-p234",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p234",
+   "age": "22",
+   "accent": "Scottish",
+   "region": "West Dumfries"
+  },
+  {
+   "id": "vctk-p236",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p236",
+   "age": "23",
+   "accent": "English",
+   "region": "Manchester"
+  },
+  {
+   "id": "vctk-p238",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p238",
+   "age": "22",
+   "accent": "NorthernIrish",
+   "region": "Belfast"
+  },
+  {
+   "id": "vctk-p239",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p239",
+   "age": "22",
+   "accent": "English",
+   "region": "SW England"
+  },
+  {
+   "id": "vctk-p240",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p240",
+   "age": "21",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p244",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p244",
+   "age": "22",
+   "accent": "English",
+   "region": "Manchester"
+  },
+  {
+   "id": "vctk-p248",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p248",
+   "age": "23",
+   "accent": "Indian",
+   "region": ""
+  },
+  {
+   "id": "vctk-p249",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p249",
+   "age": "22",
+   "accent": "Scottish",
+   "region": "Aberdeen"
+  },
+  {
+   "id": "vctk-p250",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p250",
+   "age": "22",
+   "accent": "English",
+   "region": "SE England"
+  },
+  {
+   "id": "vctk-p253",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p253",
+   "age": "22",
+   "accent": "Welsh",
+   "region": "Cardiff"
+  },
+  {
+   "id": "vctk-p257",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p257",
+   "age": "24",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p261",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p261",
+   "age": "26",
+   "accent": "NorthernIrish",
+   "region": "Belfast"
+  },
+  {
+   "id": "vctk-p262",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p262",
+   "age": "23",
+   "accent": "Scottish",
+   "region": "Edinburgh"
+  },
+  {
+   "id": "vctk-p264",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p264",
+   "age": "23",
+   "accent": "Scottish",
+   "region": "West Lothian"
+  },
+  {
+   "id": "vctk-p265",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p265",
+   "age": "23",
+   "accent": "Scottish",
+   "region": "Ross"
+  },
+  {
+   "id": "vctk-p266",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p266",
+   "age": "22",
+   "accent": "Irish",
+   "region": "Athlone"
+  },
+  {
+   "id": "vctk-p267",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p267",
+   "age": "23",
+   "accent": "English",
+   "region": "Yorkshire"
+  },
+  {
+   "id": "vctk-p268",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p268",
+   "age": "23",
+   "accent": "English",
+   "region": "Southern England"
+  },
+  {
+   "id": "vctk-p269",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p269",
+   "age": "20",
+   "accent": "English",
+   "region": "Newcastle"
+  },
+  {
+   "id": "vctk-p276",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p276",
+   "age": "24",
+   "accent": "English",
+   "region": "Oxford"
+  },
+  {
+   "id": "vctk-p277",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p277",
+   "age": "23",
+   "accent": "English",
+   "region": "NE England"
+  },
+  {
+   "id": "vctk-p280",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p280",
+   "age": "25",
+   "accent": "Unknown",
+   "region": "France (mic2 files unavailable)"
+  },
+  {
+   "id": "vctk-p282",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p282",
+   "age": "23",
+   "accent": "English",
+   "region": "Newcastle"
+  },
+  {
+   "id": "vctk-p283",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p283",
+   "age": "24",
+   "accent": "Irish",
+   "region": "Cork"
+  },
+  {
+   "id": "vctk-p288",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p288",
+   "age": "22",
+   "accent": "Irish",
+   "region": "Dublin"
+  },
+  {
+   "id": "vctk-p293",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p293",
+   "age": "22",
+   "accent": "NorthernIrish",
+   "region": "Belfast"
+  },
+  {
+   "id": "vctk-p294",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p294",
+   "age": "33",
+   "accent": "American",
+   "region": "San Francisco"
+  },
+  {
+   "id": "vctk-p295",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p295",
+   "age": "23",
+   "accent": "Irish",
+   "region": "Dublin"
+  },
+  {
+   "id": "vctk-p297",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p297",
+   "age": "20",
+   "accent": "American",
+   "region": "New York"
+  },
+  {
+   "id": "vctk-p299",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p299",
+   "age": "25",
+   "accent": "American",
+   "region": "California"
+  },
+  {
+   "id": "vctk-p300",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p300",
+   "age": "23",
+   "accent": "American",
+   "region": "California"
+  },
+  {
+   "id": "vctk-p301",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p301",
+   "age": "23",
+   "accent": "American",
+   "region": "North Carolina"
+  },
+  {
+   "id": "vctk-p303",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p303",
+   "age": "24",
+   "accent": "Canadian",
+   "region": "Toronto"
+  },
+  {
+   "id": "vctk-p305",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p305",
+   "age": "19",
+   "accent": "American",
+   "region": "Philadelphia"
+  },
+  {
+   "id": "vctk-p306",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p306",
+   "age": "21",
+   "accent": "American",
+   "region": "New York"
+  },
+  {
+   "id": "vctk-p307",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p307",
+   "age": "23",
+   "accent": "Canadian",
+   "region": "Ontario"
+  },
+  {
+   "id": "vctk-p308",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p308",
+   "age": "18",
+   "accent": "American",
+   "region": "Alabama"
+  },
+  {
+   "id": "vctk-p310",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p310",
+   "age": "21",
+   "accent": "American",
+   "region": "Tennessee"
+  },
+  {
+   "id": "vctk-p312",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p312",
+   "age": "19",
+   "accent": "Canadian",
+   "region": "Hamilton"
+  },
+  {
+   "id": "vctk-p313",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p313",
+   "age": "24",
+   "accent": "Irish",
+   "region": "County Down"
+  },
+  {
+   "id": "vctk-p314",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p314",
+   "age": "26",
+   "accent": "SouthAfrican",
+   "region": "Cape Town"
+  },
+  {
+   "id": "vctk-p317",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p317",
+   "age": "23",
+   "accent": "Canadian",
+   "region": "Hamilton"
+  },
+  {
+   "id": "vctk-p318",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p318",
+   "age": "32",
+   "accent": "American",
+   "region": "Napa"
+  },
+  {
+   "id": "vctk-p323",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p323",
+   "age": "19",
+   "accent": "SouthAfrican",
+   "region": "Pretoria"
+  },
+  {
+   "id": "vctk-p329",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p329",
+   "age": "23",
+   "accent": "American",
+   "region": ""
+  },
+  {
+   "id": "vctk-p330",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p330",
+   "age": "26",
+   "accent": "American",
+   "region": ""
+  },
+  {
+   "id": "vctk-p333",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p333",
+   "age": "19",
+   "accent": "American",
+   "region": "Indiana"
+  },
+  {
+   "id": "vctk-p335",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p335",
+   "age": "25",
+   "accent": "NewZealand",
+   "region": "English"
+  },
+  {
+   "id": "vctk-p336",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p336",
+   "age": "18",
+   "accent": "SouthAfrican",
+   "region": "Johannesburg"
+  },
+  {
+   "id": "vctk-p339",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p339",
+   "age": "21",
+   "accent": "American",
+   "region": "Pennsylvania"
+  },
+  {
+   "id": "vctk-p340",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p340",
+   "age": "18",
+   "accent": "Irish",
+   "region": "Dublin"
+  },
+  {
+   "id": "vctk-p341",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p341",
+   "age": "26",
+   "accent": "American",
+   "region": "Ohio"
+  },
+  {
+   "id": "vctk-p343",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p343",
+   "age": "27",
+   "accent": "Canadian",
+   "region": "Alberta"
+  },
+  {
+   "id": "vctk-p351",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p351",
+   "age": "21",
+   "accent": "NorthernIrish",
+   "region": "Derry"
+  },
+  {
+   "id": "vctk-p361",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p361",
+   "age": "19",
+   "accent": "American",
+   "region": "New Jersey"
+  },
+  {
+   "id": "vctk-p362",
+   "source": "VCTK 0.92 mic1",
+   "sex": "F",
+   "speaker": "p362",
+   "age": "29",
+   "accent": "American",
+   "region": ""
+  }
+ ]
 }
