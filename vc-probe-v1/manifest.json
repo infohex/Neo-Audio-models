@@ -70,6 +70,60 @@
           "size": 24564657
         }
       ]
+    },
+    "hubert-soft-int8-b.onnx": {
+      "size": 122335457,
+      "sha256": "9864c23c011d8a740d91ecda28ebca19ec2745accf25a7fd5f7fa015bd4b31ac",
+      "parts": [
+        {
+          "path": "hubert-soft-int8-b.onnx.part00",
+          "size": 94371840
+        },
+        {
+          "path": "hubert-soft-int8-b.onnx.part01",
+          "size": 27963617
+        }
+      ]
+    },
+    "hubert-soft-fp32-b.onnx": {
+      "size": 378388975,
+      "sha256": "1fad2cce512d9673eb0d2ccb2480efe3d59948144246674278ecf46528f1bf6f",
+      "parts": [
+        {
+          "path": "hubert-soft-fp32-b.onnx.part00",
+          "size": 94371840
+        },
+        {
+          "path": "hubert-soft-fp32-b.onnx.part01",
+          "size": 94371840
+        },
+        {
+          "path": "hubert-soft-fp32-b.onnx.part02",
+          "size": 94371840
+        },
+        {
+          "path": "hubert-soft-fp32-b.onnx.part03",
+          "size": 94371840
+        },
+        {
+          "path": "hubert-soft-fp32-b.onnx.part04",
+          "size": 901615
+        }
+      ]
+    },
+    "quickvc-synth-fp32-b.onnx": {
+      "size": 118936486,
+      "sha256": "8a6ac2506a2e0bf2279d0cfdc07efa352dc602dc46eaa3c482880aee47221c74",
+      "parts": [
+        {
+          "path": "quickvc-synth-fp32-b.onnx.part00",
+          "size": 94371840
+        },
+        {
+          "path": "quickvc-synth-fp32-b.onnx.part01",
+          "size": 24564646
+        }
+      ]
     }
   }
 }
